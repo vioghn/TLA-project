@@ -1,1 +1,2 @@
-# TLA-project
+# TLA-project-Spring 1400
+This project, part of the Theory of Language and Automata course, involves implementing Finite Automata. It includes functionalities like NFA (Non-deterministic Finite Automaton) string acceptance, DFA (Deterministic Finite Automaton) creation, regular expression extraction from NFAs, and schematic visualization. Similarly, it supports DFA string acceptance, simplification, and schematic display
